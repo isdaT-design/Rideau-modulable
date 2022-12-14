@@ -1,7 +1,4 @@
-# mobilier-modulable
-
-
- ![Rideau Cafétéria](https://github.com/isdaT-design/Rideau-modulable/blob/main/Rideau-modulable-1.jpg?raw=true "Rideau Cafétéria")
+# Mobilier modulable
 
 
 Dans le cadre de la demande d’une cafétéria à institut supérieur des arts et du design de Toulouse, un groupe d'étudiants en design a été mis en place pour créer du mobilier. 
@@ -12,11 +9,14 @@ Le mobilier à été fabriqué dans un Fablab, à l’aide d’une cnc pour le m
 Le mobilier peut être réapproprié avec d'autres savoir-faire que numérique, d’autre forme d’assemblage. Les fichiers qui sont insérés, sont donnés à titre d’exemple pour faire ou non la même chose. Mais ils peuvent aussi être réinventés.
 
 
+ ![Rideau Cafétéria](https://github.com/isdaT-design/Rideau-modulable/blob/main/Rideau-modulable-1.jpg?raw=true "Rideau Cafétéria")
+
+
 ------------------------------------------------------------------------------------
-# Rideau-accoustique-modulable
+# Rideau accoustique modulable
 ------------------------------------------------------------------------------------
 
-# design textile & numérique
+# design textile & machine à commande numérique
 
 
 Le rideau acoustique pensé comme un écosystème organique. Le système d’assemblage est sans colle ni couture, est modulable, réalisé en découpe laser. 
