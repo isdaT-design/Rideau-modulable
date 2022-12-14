@@ -1,5 +1,5 @@
 # Rideau-modulable
-design textile numérique
+design textile & numérique
 
 
 Rideau acoustique pensé comme un écosystème organique. Le système d’assemblage est sans colle ni couture, est modulable, réalisé en découpe laser. 
