@@ -12,7 +12,7 @@ Le mobilier à été fabriqué dans un Fablab, à l’aide d’une cnc pour le m
 Le mobilier peut être réapproprié avec d'autres savoir-faire que numérique, d’autre forme d’assemblage. Les fichiers qui sont insérés, sont donnés à titre d’exemple pour faire ou non la même chose. Mais ils peuvent aussi être réinventés. 
 
 
--------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 # design textile & numérique
 
@@ -21,12 +21,8 @@ Le rideau acoustique pensé comme un écosystème organique. Le système d’ass
 Les encoches sont une sélection de symboles culturels en lien avec la nature et la végétation, provenant de différents pays du monde. Ils peuvent être modulables.
  Le but est de faire dialoguer les symboles traditionnels aux techniques contemporaines. 
  
- Order from the Higher Institute of Arts and Design of Toulouse for the future cafeteria scheduled for September 2022: it is an acoustic curtain designed as an organic ecosystem. The assembly system is without glue or sewing, is modular, made by laser cutting.
  
-Notches represent a selection of cultural symbols related to nature and vegetation, from various countries around the world. They can be modulated and appropriated.
- 
- 
-The goal is to create a dialogue between traditional symbols and contemporary techniques.
 
+ ![Rideau Cafétéria](https://github.com/isdaT-design/Rideau-modulable/blob/main/photo-module-2.jpg?raw=true "Rideau Cafétéria")
 
  
