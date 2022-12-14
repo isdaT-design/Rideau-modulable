@@ -1,5 +1,5 @@
 # Rideau-modulable
-design textile & numérique
+# design textile & numérique
 
 
 Dans le cadre de la demande d’une cafétéria à institut supérieur des arts et du design de Toulouse, un groupe d'étudiants en design a été mis en place pour créer du mobilier. 
@@ -12,7 +12,7 @@ Le mobilier peut être réapproprié avec d'autres savoir-faire que numérique, 
 
 
 
-Rideau acoustique pensé comme un écosystème organique. Le système d’assemblage est sans colle ni couture, est modulable, réalisé en découpe laser. 
+Le rideau acoustique pensé comme un écosystème organique. Le système d’assemblage est sans colle ni couture, est modulable, réalisé en découpe laser. 
 Les encoches sont une sélection de symboles culturels en lien avec la nature et la végétation, provenant de différents pays du monde. Ils peuvent être modulables.
  Le but est de faire dialoguer les symboles traditionnels aux techniques contemporaines. 
  
