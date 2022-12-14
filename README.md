@@ -29,5 +29,4 @@ Notches represent a selection of cultural symbols related to nature and vegetati
 The goal is to create a dialogue between traditional symbols and contemporary techniques.
 
 
-
  
