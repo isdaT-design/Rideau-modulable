@@ -27,4 +27,11 @@ Les encoches sont une sélection de symboles culturels en lien avec la nature et
 
  ![Rideau Cafétéria](https://github.com/isdaT-design/Rideau-modulable/blob/main/photo-module-2.jpg?raw=true "Rideau Cafétéria")
 
+
+
+ ![Rideau Cafétéria](https://github.com/isdaT-design/Rideau-modulable/blob/main/montage-3.png?raw=true "Rideau Cafétéria")
+ 
+ 
+ ![Rideau Cafétéria](https://github.com/isdaT-design/Rideau-modulable/blob/main/module-montage-4.png?raw=true "Rideau Cafétéria")
+
  
